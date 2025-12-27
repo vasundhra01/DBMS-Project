@@ -1,5 +1,5 @@
-# DBMS-Project
-🎬 DBMS Movie Recommendation System
+# DBMS Movie Recommendation System
+
 A full-stack web application featuring a robust Relational Database Management System (RDBMS) backend and a modern React.js frontend for discovering and recommending movies.
 
 
